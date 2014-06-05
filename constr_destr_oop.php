@@ -1,6 +1,5 @@
 <?php
 
-
 class MyClass {
 		
 	public $property = "This is the value of the property.";
